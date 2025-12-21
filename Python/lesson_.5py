@@ -1,0 +1,39 @@
+# proizNum = 1
+# userInput = 1
+
+# while userInput != 0: 
+#    print ("Введите 0 чтобы остановить программу") 
+#    userInput = int (input("Или введите ваше число"))
+
+#    print ("Произведение ваших чисел равно :", proizNum)
+
+# for i  in  range(1,101):
+#     if i % 3 != 0 and i % 5 != 0:
+#         print (i, end = " ")
+ 
+
+# st = "Мы используем индексы в этот примере "
+# print (st[-1])
+# print (st[-7:-1])
+# print (st[:-13])
+# print (st[-13:])
+# print (st[::-1])
+
+# st = "Тот кто владеет  информацией ,тот владеет миром!"
+# len_st = len(st)
+#с
+# count_o = st.count("о")
+
+
+# st = input()
+# a = int(input())
+# b = int(input())
+# print (st[a:b]) 
+
+# 
+
+
+st = input ()
+new_st1 = st
+new_st2 = st
+new_st3 = st
